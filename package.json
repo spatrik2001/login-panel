@@ -9,12 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "firebase": "^10.12.3",
+    "next": "14.2.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "14.2.4"
-  }
+  },
+  "description": "Random Authentication Panel using firebase and next.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatrik2001/login-panel.git"
+  },
+  "author": "Scheuer Patrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spatrik2001/login-panel/issues"
+  },
+  "homepage": "https://github.com/spatrik2001/login-panel#readme"
 }
